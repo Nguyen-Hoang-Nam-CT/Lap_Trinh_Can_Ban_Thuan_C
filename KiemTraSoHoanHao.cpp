@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+ 
 int KiemTraSoHoanHao(int x);
 
 int main()
